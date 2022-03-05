@@ -10,7 +10,7 @@ body { background-color:#FFFFCC;
      margin-left:50px; }
 h1 { font-size:80pt;
      color:#000000;
-     border-bottom:solid thin black; }
+      }
 p,li  { font-size:12pt;
         line-height:14pt;
         font-family:Helvetica,Arial,sans-serif;
