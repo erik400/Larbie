@@ -1,5 +1,9 @@
 <style type="text/css">
 <!--
+div {
+  padding: 70px;
+
+}
 body { background-color:#FFFFCC;
      margin-left:100px; }
 h1 { font-size:148pt;
